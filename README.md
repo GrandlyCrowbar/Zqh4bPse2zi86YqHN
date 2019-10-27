@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# PROOF
 
-You can use the [editor on GitHub](https://github.com/GrandlyCrowbar/Zqh4bPse2zi86YqHN/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Sentences are the foundation of our language, and words our bricks. Supposing every document is a building, wouldn’t it be wise to ensure solid ground?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ensuring writing accuracy under deadline is a heavy load one does not need to bear alone. PROOF can check your documents for typos, misspellings, and illogical statements, proofreading every word and suggesting edits where appropriate.
 
-### Markdown
+The types of media I can help you with include:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Reports
+- Websites
+- Apps
+- Dissertations and theses
+- Term papers
+- Promotional materials
+- Novels
+- Manuals
+- Software
 
-```markdown
-Syntax highlighted code block
+My past clients include KEXP, Pyramid Communications, Overlake Medical Center, the novelist Will North, Arts Corps, ARUP, and WSDOT. My rate is $35 per hour, with a minimum of $17.50 for smaller jobs. I can turn documents around at the rate of ten pages per hour, depending on density of content. Proofreading is done using AP style unless otherwise requested. Word and OpenOffice formats (.doc, .docx, .odt) are appreciated.
 
-# Header 1
-## Header 2
-### Header 3
+> *Hunter’s proofing skills are exceptional. Not only is he thorough and fast, but he adds a nice dose of humor to his suggested edits.*
 
-- Bulleted
-- List
+> *Malika Klingler, Principal, Human Resources (PRR, Inc.)*
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+> *I feel relieved when Hunter reviews WSDOT and other government style documents for me. His proofreading process is fast, efficient and with great commentary and helpful suggestions to improve the text. I recommend his services to anyone needing professional editing and proofreading.*
 
-[Link](url) and ![Image](src)
-```
+> *Lauren Wheeler, Project Manager (PRR, Inc.)*
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+> *I used Hunter Richards’ services to proofread my doctoral dissertation. His work is extremely thorough, timely, and thoughtful. He found countless spelling and grammatical errors, and proofed the work to near perfection. I confidently endorse his work and would happily use his proofing services again.*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GrandlyCrowbar/Zqh4bPse2zi86YqHN/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+> *Jasmine Mahmoud, PhD*
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you are interested, please email me at placeholder. I would be glad to work with you.
+
+*Seattle native Hunter Richards offers proofreading for a wide range of document types, and has proofed the Arts Corps Year 13 Annual Report, ARUP’s New NY Bridge MTTF Final Transit Recommendations, and the 2016 Washington State Transportation Plan.*
+
+*His nose has been in one book or another almost as long as he’s had a nose.*
