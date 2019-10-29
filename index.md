@@ -1,5 +1,5 @@
 ---
-title: PROOF
+title: proof
 layout: page
 feature_image: "blurrypages2.jpg"
 feature_text: PROOF 
