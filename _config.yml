@@ -26,3 +26,7 @@ title: 'PROOF'
 description: 'Proofreading • Editing • Quality Control'
 permalink: pretty
 logo: "insert logo url"
+css_inline: true
+
+navigation_header:
+navigation_footer:
