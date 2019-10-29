@@ -25,7 +25,7 @@ baseurl: ''
 title: 'PROOF'
 description: 'Proofreading • Editing • Quality Control'
 permalink: pretty
-logo: "insert logo url"
+logo: "blank.png"
 css_inline: true
 
 navigation_header: test
