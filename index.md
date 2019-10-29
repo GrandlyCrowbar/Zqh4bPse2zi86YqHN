@@ -55,10 +55,10 @@ My past clients include KEXP, Pyramid Communications, Overlake Medical Center, t
 
 
 If you are interested, please email me at <script language="javascript" type="text/javascript">var pre
- = "example";document.write("<a href='mailto:" + pre + 
-"@abc.com'>" + pre + 
-"@abc.com</a>");</script><noscript>Enable javascript 
-to see my email</noscript>. I would be glad to work with you.
+ = "exampleperson";document.write("<a href='mailto:" + pre + 
+"@a.com'>" + pre + 
+"@a.com</a>");aaaaaa</script>bbbbbb<noscript> Enable javascript 
+to see my email</noscript> ccccc. I would be glad to work with you.
 
 {% include figure.html image="blurrypages.jpg" caption="image placeholder" position="center" %}
 
