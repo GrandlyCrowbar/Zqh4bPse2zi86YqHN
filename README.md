@@ -1,5 +1,3 @@
-# PROOF
-
 Sentences are the foundation of our language, and words our bricks. Supposing every document is a building, wouldn’t it be wise to ensure solid ground?
 
 Ensuring writing accuracy under deadline is a heavy load one does not need to bear alone. PROOF can check your documents for typos, misspellings, and illogical statements, proofreading every word and suggesting edits where appropriate.
