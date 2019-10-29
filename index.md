@@ -56,10 +56,8 @@ My past clients include KEXP, Pyramid Communications, Overlake Medical Center, t
 
 If you are interested, please email me at placeholder. I would be glad to work with you.
 
-
+{% include figure.html image="blurrypages.jpg" caption="image placeholder" position="center" %}
 
 *Seattle native Hunter Richards offers proofreading for a wide range of document types, and has proofed the Arts Corps Year 13 Annual Report, ARUP’s New NY Bridge MTTF Final Transit Recommendations, and the 2016 Washington State Transportation Plan.*
 
 *His nose has been in one book or another almost as long as he’s had a nose.*
-
-{% include figure.html image="blurrypages.jpg" caption="this is an image" position="right" %}
