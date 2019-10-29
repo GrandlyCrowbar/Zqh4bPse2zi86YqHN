@@ -2,7 +2,7 @@
 title: PROOF
 layout: page
 feature_image: "blurrypages2.jpg"
-feature_text: ## PROOF 
+feature_text: PROOF 
 ---
 
 Sentences are the foundation of our language, and words our bricks. Supposing every document is a building, wouldn’t it be wise to ensure solid ground?
@@ -29,7 +29,7 @@ The types of media I can help you with include:
 
 
 
-My past clients include KEXP, Pyramid Communications, Overlake Medical Center, the novelist Will North, Arts Corps, ARUP, and WSDOT. My rate is $35 per hour, with a minimum of $17.50 for smaller jobs. I can turn documents around at the rate of ten pages per hour, depending on density of content. Proofreading is done using AP style unless otherwise requested. Word and OpenOffice formats (.doc, .docx, .odt) are appreciated.
+My past clients include KEXP, Pyramid Communications, Overlake Medical Center, the novelist Will North, Arts Corps, ARUP, and WSDOT. My rate is $35 per hour, with a minimum of $17.50 for smaller jobs. I can turn documents around at the rate of ten pages per hour, depending on density of content. Proofreading is done using AP style unless otherwise requested. Word and LibreOffice/OpenOffice formats (.doc, .docx, .odt) are appreciated.
 
 
 
