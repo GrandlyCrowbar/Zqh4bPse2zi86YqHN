@@ -1,8 +1,8 @@
 ---
-title: ## PROOF
+title: PROOF
 layout: page
 feature_image: "blurrypages2.jpg"
-feature_text: ## PROOF
+feature_text: ## PROOF 
 ---
 
 Sentences are the foundation of our language, and words our bricks. Supposing every document is a building, wouldn’t it be wise to ensure solid ground?
