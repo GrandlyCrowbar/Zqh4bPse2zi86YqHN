@@ -2,7 +2,7 @@
 title: 
 layout: page
 feature_image: "blurrypages2.jpg"
-feature_text: <h6>PROOF</h6>
+feature_text: <h1>PROOF</h1>
 ---
 
 Sentences are the foundation of our language, and words our bricks. Supposing every document is a building, wouldn’t it be wise to ensure solid ground?
