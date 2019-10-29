@@ -1,8 +1,8 @@
 ---
-title: proof
+title: 
 layout: page
 feature_image: "blurrypages2.jpg"
-feature_text: PROOF 
+feature_text: <h6>PROOF</h6>
 ---
 
 Sentences are the foundation of our language, and words our bricks. Supposing every document is a building, wouldn’t it be wise to ensure solid ground?
@@ -60,7 +60,6 @@ If you are interested, please email me at placeholder. I would be glad to work w
 
 *Seattle native Hunter Richards offers proofreading for a wide range of document types, and has proofed the Arts Corps Year 13 Annual Report, ARUP’s New NY Bridge MTTF Final Transit Recommendations, and the 2016 Washington State Transportation Plan.*
 
-
-
 *His nose has been in one book or another almost as long as he’s had a nose.*
 
+{% include figure.html image="blurrypages.jpg" caption="this is an image" position="right" %}
