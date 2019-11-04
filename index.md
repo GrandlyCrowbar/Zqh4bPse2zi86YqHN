@@ -79,7 +79,7 @@ document.write("<a href='mailto:"+link+"'>"+link+"</a>")
 //-->
 </script><noscript>(Sorry, you need Javascript on to email me)</noscript>. I would be glad to work with you.
 
-{% include figure.html image="blurrypages.jpg" caption="image placeholder" position="center" %}
+{% include figure.html image="photo.jpg" position="center" %}
 
 *Seattle native Hunter Richards offers proofreading for a wide range of document types, and has proofed the Arts Corps Year 13 Annual Report, ARUP’s New NY Bridge MTTF Final Transit Recommendations, and the 2016 Washington State Transportation Plan.*
 
