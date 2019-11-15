@@ -35,7 +35,7 @@ My past clients include KEXP, Pyramid Communications, Overlake Medical Center, t
 
 > *Hunter’s proofing skills are exceptional. Not only is he thorough and fast, but he adds a nice dose of humor to his suggested edits.*
 
-Malika Klingler, Principal, Human Resources (PRR, Inc.)
+> Malika Klingler, Principal, Human Resources (PRR, Inc.)
 
 
 
@@ -43,7 +43,7 @@ Malika Klingler, Principal, Human Resources (PRR, Inc.)
 
 > *I feel relieved when Hunter reviews WSDOT and other government style documents for me. His proofreading process is fast, efficient and with great commentary and helpful suggestions to improve the text. I recommend his services to anyone needing professional editing and proofreading.*
 
-Lauren Wheeler, Project Manager (PRR, Inc.)
+> Lauren Wheeler, Project Manager (PRR, Inc.)
 
 
 
@@ -51,7 +51,7 @@ Lauren Wheeler, Project Manager (PRR, Inc.)
 
 > *I used Hunter Richards’ services to proofread my doctoral dissertation. His work is extremely thorough, timely, and thoughtful. He found countless spelling and grammatical errors, and proofed the work to near perfection. I confidently endorse his work and would happily use his proofing services again.*
 
-Jasmine Mahmoud, PhD
+> Jasmine Mahmoud, PhD
 
 
 
