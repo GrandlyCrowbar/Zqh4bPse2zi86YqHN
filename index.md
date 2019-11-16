@@ -67,7 +67,8 @@ If you are interested, please email me at <script type="text/javascript" languag
 document.write("<a href='mailto:"+link+"'>"+link+"</a>")
 }
 //-->
-</script><noscript>(Sorry, you need Javascript on to email me)</noscript>. I would be glad to work with you.
+</script><noscript>(Sorry, you need Javascript on to email me)</noscript>.  
+I would be glad to work with you.
 <p></p>
 {% include figure.html image="photo_small.jpg" position="center" %}
 
