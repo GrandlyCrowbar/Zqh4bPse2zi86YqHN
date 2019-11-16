@@ -31,27 +31,14 @@ The types of media I can help you with include:
 
 My past clients include KEXP, Pyramid Communications, Overlake Medical Center, the novelist Will North, Arts Corps, ARUP, and WSDOT. My rate is $35 per hour, with a minimum of $17.50 for smaller jobs. I can turn documents around at the rate of ten pages per hour, depending on density of content. Proofreading is done using AP style unless otherwise requested. Word and LibreOffice/OpenOffice formats (.doc, .docx, .odt) are appreciated.
 
+*Hunter’s proofing skills are exceptional. Not only is he thorough and fast, but he adds a nice dose of humor to his suggested edits.*
+Malika Klingler, Principal, Human Resources (PRR, Inc.)
 
+*I feel relieved when Hunter reviews WSDOT and other government style documents for me. His proofreading process is fast, efficient and with great commentary and helpful suggestions to improve the text. I recommend his services to anyone needing professional editing and proofreading.*
+Lauren Wheeler, Project Manager (PRR, Inc.)
 
-> *Hunter’s proofing skills are exceptional. Not only is he thorough and fast, but he adds a nice dose of humor to his suggested edits.*
-
-> Malika Klingler, Principal, Human Resources (PRR, Inc.)
-
-
-
-
-
-> *I feel relieved when Hunter reviews WSDOT and other government style documents for me. His proofreading process is fast, efficient and with great commentary and helpful suggestions to improve the text. I recommend his services to anyone needing professional editing and proofreading.*
-
-> Lauren Wheeler, Project Manager (PRR, Inc.)
-
-
-
-
-
-> *I used Hunter Richards’ services to proofread my doctoral dissertation. His work is extremely thorough, timely, and thoughtful. He found countless spelling and grammatical errors, and proofed the work to near perfection. I confidently endorse his work and would happily use his proofing services again.*
-
-> Jasmine Mahmoud, PhD
+*I used Hunter Richards’ services to proofread my doctoral dissertation. His work is extremely thorough, timely, and thoughtful. He found countless spelling and grammatical errors, and proofed the work to near perfection. I confidently endorse his work and would happily use his proofing services again.*
+Jasmine Mahmoud, PhD
 
 
 
