@@ -2,8 +2,6 @@
 title: false
 styles: true
 ---
-# Add a line saying "@import "alembic";" if everything breaks by removing it. 
-# Tweak below code to make image resize based on device until it works.
 img {
     @import "alembic";
     max-width:100%;
