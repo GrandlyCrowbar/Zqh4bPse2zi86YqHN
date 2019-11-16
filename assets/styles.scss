@@ -8,6 +8,7 @@ styles: true
     Tweak below code to make image resize based on device until it works.    
 -->
 img {
+    @import "alembic";
     max-width:100%;
     height:auto;
 }
