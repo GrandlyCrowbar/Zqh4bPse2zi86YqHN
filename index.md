@@ -1,7 +1,7 @@
 ---
 title: 
 layout: page
-feature_image: "blurrypages4.jpg"
+feature_image: "blurrypages5.jpg"
 feature_text: ""
 ---
 
